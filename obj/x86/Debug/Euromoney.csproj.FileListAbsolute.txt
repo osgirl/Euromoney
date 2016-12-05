@@ -1,0 +1,4 @@
+E:\Projects\Euromoney\bin\Debug\Euromoney.exe
+E:\Projects\Euromoney\bin\Debug\Euromoney.pdb
+E:\Projects\Euromoney\obj\x86\Debug\Euromoney.exe
+E:\Projects\Euromoney\obj\x86\Debug\Euromoney.pdb
